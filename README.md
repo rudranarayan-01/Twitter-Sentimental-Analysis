@@ -3,6 +3,8 @@
 ## Overview
 This project performs sentiment analysis on tweets using Natural Language Processing (NLP) techniques and machine learning. The model classifies tweets as either positive or negative based on their content.
 
+**ntscraper** - "ntscraper" in Python is primarily used to scrape tweets from Twitter without needing the official Twitter API, allowing users to easily extract tweets based on search terms, hashtags, or specific user profiles, all by leveraging Nitter instances which bypass API rate limits and authorization requirements; essentially, it's a tool for readily accessing real-time Twitter data for analysis without the complexities of API keys. 
+
 ## Features
 - Preprocessing of text data using **NLTK PorterStemmer** and **stopwords corpus**.
 - Feature extraction using **TfidfVectorizer**.
@@ -21,6 +23,8 @@ This project performs sentiment analysis on tweets using Natural Language Proces
 - Scikit-learn (sklearn)
 - Pandas
 - NumPy
+- ntscraper
+- streamlit
 
 ## Installation
 To set up the environment, install the required dependencies:
@@ -42,7 +46,7 @@ pip install nltk scikit-learn pandas numpy
 ## Usage
 Run the script to train and test the model:
 ```bash
-python sentiment_analysis.py
+streamlit run app.py
 ```
 
 ## Example Output
