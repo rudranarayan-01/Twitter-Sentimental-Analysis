@@ -12,6 +12,7 @@ This project performs sentiment analysis on tweets using Natural Language Proces
 
 ## Dataset
 - The dataset used contains **160,000 tweets**, labeled as either positive (1) or negative (0).
+- **Dataset Link** - https://www.kaggle.com/datasets/kazanova/sentiment140
 - It was sourced from **Kaggle**.
 
 ## Technologies Used
