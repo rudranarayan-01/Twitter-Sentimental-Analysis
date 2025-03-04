@@ -70,7 +70,21 @@ Predicted Sentiment: Negative
 ## Acknowledgments
 - **Kaggle** for providing the dataset.
 - **NLTK & Scikit-learn** for powerful NLP and ML libraries.
+## Contributors
+- **Name** - Rudranarayan Sahu
+- **Website** - https://akash0101.pythonanywhere.com
+- **Mail** - rudranarayansahu.tech@gmail.com
+
+---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
+
+---
+
+## Contact
+For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
+
+Feel free to connect ✨✨
+Thank you😊
